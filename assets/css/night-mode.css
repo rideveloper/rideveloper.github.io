@@ -926,7 +926,7 @@ section {
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 360px) {
   .header-social-links a {
     padding: 0px;
   }
