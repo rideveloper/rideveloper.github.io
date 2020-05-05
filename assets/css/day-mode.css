@@ -915,3 +915,18 @@ section {
     left:30px;
     z-index: 998;  
   }
+@media screen and (max-width: 424px) {
+  #header .logo h1 {
+    font-size: 23px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .header-social-links a {
+    padding: 0px;
+  }
+
+  #header .logo h1 {
+    padding-top: 0px;
+  }
+}
